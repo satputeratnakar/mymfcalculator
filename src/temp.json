@@ -1,0 +1,182 @@
+[
+    {
+        "category": "Aditya Birla Sun Life Mutual Fund",
+        "categorydetails": [
+            {
+                "scheme_code": "119551",
+                "ISIN_Div_Payout_ISIN_Growth": "INF209KA12Z1",
+                "ISIN_Div_Reinvestment": "INF209KA13Z9",
+                "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW",
+                "net_asset_value": "104.9292",
+                "date": "12-Jul-2024"
+            },
+            {
+                "scheme_code": "119553",
+                "ISIN_Div_Payout_ISIN_Growth": "INF209K01YO8",
+                "ISIN_Div_Reinvestment": "-",
+                "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund  - Direct - Quarterly IDCW",
+                "net_asset_value": "105.3564",
+                "date": "12-Jul-2024"
+            },
+            {
+                "scheme_code": "108272",
+                "ISIN_Div_Payout_ISIN_Growth": "INF209K01LX6",
+                "ISIN_Div_Reinvestment": "INF209KA11Z3",
+                "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund  - REGULAR - IDCW",
+                "net_asset_value": "147.8876",
+                "date": "12-Jul-2024"
+            },
+            {
+                "scheme_code": "110282",
+                "ISIN_Div_Payout_ISIN_Growth": "INF209K01LU2",
+                "ISIN_Div_Reinvestment": "-",
+                "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund  - REGULAR - MONTHLY IDCW",
+                "net_asset_value": "111.0919",
+                "date": "12-Jul-2024"
+            },
+            {
+                "scheme_code": "108274",
+                "ISIN_Div_Payout_ISIN_Growth": "INF209K01LN7",
+                "ISIN_Div_Reinvestment": "-",
+                "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund  - REGULAR - Quarterly IDCW",
+                "net_asset_value": "102.0452",
+                "date": "12-Jul-2024"
+            }
+        ]
+    },
+    {
+        "category": "Motilal Oswal Mutual Fund",
+        "categorydetails": [
+            {
+                "scheme_code": "145834",
+                "ISIN_Div_Payout_ISIN_Growth": "INF247L01734",
+                "ISIN_Div_Reinvestment": "-",
+                "scheme_name": "Motilal Oswal Liquid Fund - Direct Growth",
+                "net_asset_value": "13.0845",
+                "date": "14-Jul-2024"
+            },
+            {
+                "scheme_code": "145946",
+                "ISIN_Div_Payout_ISIN_Growth": "INF247L01726",
+                "ISIN_Div_Reinvestment": "-",
+                "scheme_name": "Motilal Oswal Liquid Fund - Regular Growth",
+                "net_asset_value": "12.9755",
+                "date": "14-Jul-2024"
+            },
+            {
+                "scheme_code": "147442",
+                "ISIN_Div_Payout_ISIN_Growth": "-",
+                "ISIN_Div_Reinvestment": "-",
+                "scheme_name": "Motilal Oswal Liquid Fund - Unclaimed Dividend - Greater than 3 years",
+                "net_asset_value": "10.0000",
+                "date": "14-Jul-2024"
+            },
+            {
+                "scheme_code": "147441",
+                "ISIN_Div_Payout_ISIN_Growth": "-",
+                "ISIN_Div_Reinvestment": "-",
+                "scheme_name": "Motilal Oswal Liquid Fund - Unclaimed Dividend- Upto 3 years",
+                "net_asset_value": "12.7198",
+                "date": "14-Jul-2024"
+            },
+            {
+                "scheme_code": "147443",
+                "ISIN_Div_Payout_ISIN_Growth": "-",
+                "ISIN_Div_Reinvestment": "-",
+                "scheme_name": "Motilal Oswal Liquid Fund - Unclaimed Redemption - Greater than 3 years",
+                "net_asset_value": "10.0000",
+                "date": "14-Jul-2024"
+            }
+        ]
+    },
+    {
+        "category": "Axis Mutual Fund",
+        "categorydetails": [
+            {
+                "scheme_code": "128952",
+                "ISIN_Div_Payout_ISIN_Growth": "INF846K01NF8",
+                "ISIN_Div_Reinvestment": "-",
+                "scheme_name": "Axis Banking & PSU Debt Fund - Direct Plan - Bonus Option",
+                "net_asset_value": "1532.8272",
+                "date": "14-Jun-2017"
+            },
+            {
+                "scheme_code": "120437",
+                "ISIN_Div_Payout_ISIN_Growth": "-",
+                "ISIN_Div_Reinvestment": "INF846K01CU0",
+                "scheme_name": "Axis Banking & PSU Debt Fund - Direct Plan - Daily IDCW",
+                "net_asset_value": "1039.1310",
+                "date": "12-Jul-2024"
+            },
+            {
+                "scheme_code": "120438",
+                "ISIN_Div_Payout_ISIN_Growth": "INF846K01CR6",
+                "ISIN_Div_Reinvestment": "-",
+                "scheme_name": "Axis Banking & PSU Debt Fund - Direct Plan - Growth Option",
+                "net_asset_value": "2502.9436",
+                "date": "12-Jul-2024"
+            },
+            {
+                "scheme_code": "120439",
+                "ISIN_Div_Payout_ISIN_Growth": "INF846K01CT2",
+                "ISIN_Div_Reinvestment": "INF846K01CS4",
+                "scheme_name": "Axis Banking & PSU Debt Fund - Direct Plan - Monthly IDCW",
+                "net_asset_value": "1036.5012",
+                "date": "12-Jul-2024"
+            },
+            {
+                "scheme_code": "120436",
+                "ISIN_Div_Payout_ISIN_Growth": "INF846K01CV8",
+                "ISIN_Div_Reinvestment": "INF846K01CW6",
+                "scheme_name": "Axis Banking & PSU Debt Fund - Direct Plan - Weekly IDCW",
+                "net_asset_value": "1039.0084",
+                "date": "12-Jul-2024"
+            }
+        ]
+    },
+    {
+        "category": "Bajaj Finserv Mutual Fund",
+        "categorydetails": [
+            {
+                "scheme_code": "152164",
+                "ISIN_Div_Payout_ISIN_Growth": "INF0QA701649",
+                "ISIN_Div_Reinvestment": "INF0QA701631",
+                "scheme_name": "Bajaj Finserv Banking and PSU Fund-  Direct Plan-Monthly- IDCW",
+                "net_asset_value": "10.5530",
+                "date": "12-Jul-2024"
+            },
+            {
+                "scheme_code": "152163",
+                "ISIN_Div_Payout_ISIN_Growth": "INF0QA701615",
+                "ISIN_Div_Reinvestment": "INF0QA701623",
+                "scheme_name": "Bajaj Finserv Banking and PSU Fund- Direct Plan- IDCW",
+                "net_asset_value": "10.5530",
+                "date": "12-Jul-2024"
+            },
+            {
+                "scheme_code": "152165",
+                "ISIN_Div_Payout_ISIN_Growth": "INF0QA701557",
+                "ISIN_Div_Reinvestment": "-",
+                "scheme_name": "Bajaj Finserv Banking and PSU Fund- Regular Plan- Growth",
+                "net_asset_value": "10.5145",
+                "date": "12-Jul-2024"
+            },
+            {
+                "scheme_code": "152166",
+                "ISIN_Div_Payout_ISIN_Growth": "INF0QA701565",
+                "ISIN_Div_Reinvestment": "INF0QA701573",
+                "scheme_name": "Bajaj Finserv Banking and PSU Fund- Regular Plan- IDCW",
+                "net_asset_value": "10.5145",
+                "date": "12-Jul-2024"
+            },
+            {
+                "scheme_code": "152162",
+                "ISIN_Div_Payout_ISIN_Growth": "INF0QA701607",
+                "ISIN_Div_Reinvestment": "-",
+                "scheme_name": "Bajaj Finserv Banking and PSU Fund-Direct Plan- Growth",
+                "net_asset_value": "10.5530",
+                "date": "12-Jul-2024"
+            }
+        ]
+    }
+]
